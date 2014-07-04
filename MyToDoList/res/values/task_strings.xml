@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_reminders"></string>
+    <string name="task_name">Tên công việc</string>
+    <string name="task_description">Nội dung</string>
+    <string name="date">Ngày</string>
+    <string name="time">Giờ</string>
+    <string name="confirm">Confirm</string>
+    <string name="task_saved_message">Save task success</string>
+    <string name="notify_new_task_message">A task needs to be reviewed!</string>
+    <string name="notifiy_new_task_title">Task Reminder.</string>
+    
+</resources>
